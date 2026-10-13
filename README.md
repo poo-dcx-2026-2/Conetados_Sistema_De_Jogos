@@ -37,10 +37,6 @@ Os dados são gravados em arquivo utilizando serialização de objetos por meio 
 
 ## Autores
 
-Rikelmy Cristino da silva
-
 Jose Igor Leandro da Silva
 
-Moseis Maximo de Lima
-
-GLAWCEMIR ESPÍNOLA DE FARIAS
+José virgolino Silva Da Costa
